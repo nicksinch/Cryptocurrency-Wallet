@@ -17,3 +17,8 @@ The project has the following functionalities:
 - Get summary of the wallet
 
 To implement some of them, calls to the CoinAPI are invoked.
+
+To start the project:
+- execute Main.java to start the server
+- execute CryptoClient to start the client
+- type "help" in the terminal to see available commands
